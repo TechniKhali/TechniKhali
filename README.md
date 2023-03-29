@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anything fun but challenging**
 
-- 📝 I regularly write articles on [https://medium.com/@khalisahlewis](https://medium.com/@khalisahlewis)
+- 📝 I regularly write articles on [Medium](https://medium.com/@khalisahlewis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
