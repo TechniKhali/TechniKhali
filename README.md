@@ -1,12 +1,16 @@
 ![banner (1)](https://user-images.githubusercontent.com/108205030/228528992-b1e60933-f690-4f0e-abc7-7d40c74739ed.png)
 
-- ![NakanoartNakanodrawingGIF](https://user-images.githubusercontent.com/108205030/228529599-7a387a56-68f2-45e5-9fd2-46ba4b1bfcdb.gif) I’m currently working on [The Greatness of the PS2](https://github.com/TechniKhali/Niyo_Final_Project)
+- ![NakanoartNakanodrawingGIF](https://user-images.githubusercontent.com/108205030/228529599-7a387a56-68f2-45e5-9fd2-46ba4b1bfcdb.gif)
+- I’m currently working on [The Greatness of the PS2](https://github.com/TechniKhali/Niyo_Final_Project)
 
-- ![BoyMathGIF](https://user-images.githubusercontent.com/108205030/228529814-ad7a3cb0-a037-41d4-86a0-0f14cb1a6806.gif) I’m currently learning *Power BI*
+I’m currently learning *Power BI*
+- ![BoyMathGIF](https://user-images.githubusercontent.com/108205030/228529814-ad7a3cb0-a037-41d4-86a0-0f14cb1a6806.gif) 
 
-- ![LoveAnniversaryGIF](https://user-images.githubusercontent.com/108205030/228530228-fb135535-1159-4b4e-ad0c-32404b0c73e4.gif) I’m looking to collaborate on **Anything fun but challenging**
+I’m looking to collaborate on **Anything fun but challenging**
+- ![LoveAnniversaryGIF](https://user-images.githubusercontent.com/108205030/228530228-fb135535-1159-4b4e-ad0c-32404b0c73e4.gif) 
 
-- ![JournalWriteGIF](https://user-images.githubusercontent.com/108205030/228530521-ea0611dd-56d4-43cf-91d3-c2cdbff68ce0.gif) I've started to write articles on [Medium](https://medium.com/@khalisahlewis) *be gentle with me*
+I've started to write articles on [Medium](https://medium.com/@khalisahlewis) *be gentle with me*
+- ![JournalWriteGIF](https://user-images.githubusercontent.com/108205030/228530521-ea0611dd-56d4-43cf-91d3-c2cdbff68ce0.gif) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
