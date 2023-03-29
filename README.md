@@ -12,7 +12,9 @@ I’m looking to collaborate on anything *fun* and *challenging*
 
 ![LoveAnniversaryGIF](https://user-images.githubusercontent.com/108205030/228530228-fb135535-1159-4b4e-ad0c-32404b0c73e4.gif) 
 
-I've started to write articles on [Medium](https://medium.com/@khalisahlewis) ![JournalWriteGIF](https://user-images.githubusercontent.com/108205030/228530521-ea0611dd-56d4-43cf-91d3-c2cdbff68ce0.gif) ...*be gentle with me*
+I've started to write articles on [Medium](https://medium.com/@khalisahlewis) ![JournalWriteGIF](https://user-images.githubusercontent.com/108205030/228530521-ea0611dd-56d4-43cf-91d3-c2cdbff68ce0.gif) 
+
+...*be gentle with me*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
