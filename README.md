@@ -8,7 +8,7 @@ I’m improving my knowledge on *Power BI*
 
 ![StarWarsRevengeOfSithGIF](https://user-images.githubusercontent.com/108205030/228536357-40b6eadc-bb8e-446e-9600-0e1cd4d5e60d.gif)
 
-I’m looking to collaborate on **Anything fun but challenging** 
+I’m looking to collaborate on anything *fun* and *challenging*
 
 ![LoveAnniversaryGIF](https://user-images.githubusercontent.com/108205030/228530228-fb135535-1159-4b4e-ad0c-32404b0c73e4.gif) 
 
