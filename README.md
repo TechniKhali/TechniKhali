@@ -1,20 +1,4 @@
-![Header](https://user-images.githubusercontent.com/108205030/228553684-f488d6cf-7ba2-4683-9e98-8c08dc92da43.png)
 
-
-
-I’m currently analysing [The undefeated PS2](https://github.com/TechniKhali/Niyo_Final_Project) ![LucyComputerGIF (2)](https://user-images.githubusercontent.com/108205030/228533936-ea6d48e0-d2c9-4cc8-bd65-6680070298e9.gif)
-
-I’m improving my knowledge on *Power BI*
-
-![StarWarsRevengeOfSithGIF](https://user-images.githubusercontent.com/108205030/228536357-40b6eadc-bb8e-446e-9600-0e1cd4d5e60d.gif)
-
-I’m looking to collaborate on anything *fun* and *challenging*
-
-![LoveAnniversaryGIF](https://user-images.githubusercontent.com/108205030/228530228-fb135535-1159-4b4e-ad0c-32404b0c73e4.gif) 
-
-I've started to write articles on [Medium](https://medium.com/@khalisahlewis) ![JournalWriteGIF](https://user-images.githubusercontent.com/108205030/228530521-ea0611dd-56d4-43cf-91d3-c2cdbff68ce0.gif) 
-
-...*be gentle with me*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
