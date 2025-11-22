@@ -1,0 +1,117 @@
+Create a modern, elegant personal portfolio website for a Data Engineer specialising in Data Engineering and Data Visualisation. The website should use Farrow & Ball – Sulking Room Pink as the primary accent colour, paired with soft neutrals for balance. The overall tone should feel warm, refined, professional, and faith-aligned.
+
+🌸 Style & Branding
+
+Primary colour: Sulking Room Pink (Farrow & Ball)
+
+Complementary palette: warm neutrals, soft greys, muted gold accents
+
+Aesthetic: calm, elevated, feminine, faith-conscious
+
+Clean typography with optional Arabic calligraphic decorative touch
+
+Subtle Islamic geometric cues (light patterns, borders) but not overwhelming
+
+Professional yet gentle visual identity
+
+📍 Homepage
+
+Hero section with name, title (“Data Engineering & Visualisation Specialist”), and a soft banner background in Sulking Room Pink
+
+Optional faith-aligned tagline (placeholder): “Using data with intention, clarity, and integrity.”
+
+Buttons: View My Work, Download CV, Read My Blog
+
+Small intro section about me (placeholder)
+
+Highlights of my skills in aesthetically styled cards
+
+📁 Portfolio / Projects Page
+
+Grid or card-style projects
+
+Each card includes: title, short description, tech stack, thumbnail
+
+Dedicated project detail pages containing:
+
+Overview
+
+Tools/technologies used
+
+Problem → solution narrative
+
+Screenshots/diagrams
+
+GitHub or demo links
+
+📄 CV / Resume Page
+
+Clean, elegant CV layout using Sulking Room Pink accents
+
+Sections for:
+
+Summary
+
+Skills
+
+Certifications (Azure, Databricks, etc.)
+
+Work experience
+
+Education
+
+Download CV (PDF placeholder)
+
+📝 Blog Section
+
+Blog homepage displaying posts with preview images, titles, and descriptions
+
+Individual blog templates with:
+
+Banner image
+
+Title & date
+
+Long-form writing space
+
+Tags/categories
+
+Faith-friendly tone and optional tags like “Career”, “Tech”, “Faith & Work”, “Productivity”, “Reflections”
+
+👤 About Me Page
+
+Longer bio
+
+My journey into data
+
+My professional philosophy
+
+Optional section on integrating faith with work
+
+A gentle, warm aesthetic with personal photo placeholder
+
+📬 Contact Page
+
+Contact form
+
+Social links (LinkedIn, GitHub, Email)
+
+Optional Islamic geometric decorative divider
+
+🔧 Technical Requirements
+
+Fast, responsive, mobile-friendly
+
+Dark mode optional
+
+SEO-friendly structure
+
+CMS for easily adding blogs and portfolio projects
+
+Elegant transitions, soft shadows, clean layout
+
+🧭 Navigation
+
+Home | Portfolio | CV | Blog | About | Contact
+
+Please generate the full website, including layout, structure, placeholder text, content blocks, colour system, and templates using this specification.
